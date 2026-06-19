@@ -1,0 +1,502 @@
+[
+    {
+        "icao24": "50047c",
+        "callsign": "T7AKR20 ",
+        "country": "",
+        "longitude": 6.4433,
+        "latitude": 48.0945,
+        "altitude": 12313.92,
+        "velocity": 230.82,
+        "timestamp": "2026-06-19T12:24:00.059395"
+    },
+    {
+        "icao24": "39de4e",
+        "callsign": "TVF62GV ",
+        "country": "France",
+        "longitude": -7.9345,
+        "latitude": 34.2707,
+        "altitude": 11277.6,
+        "velocity": 218.88,
+        "timestamp": "2026-06-19T12:24:00.059413"
+    },
+    {
+        "icao24": "ab1644",
+        "callsign": "UAL2097 ",
+        "country": "United States",
+        "longitude": -122.3845,
+        "latitude": 37.6199,
+        "altitude": null,
+        "velocity": 0.13,
+        "timestamp": "2026-06-19T12:24:00.059415"
+    },
+    {
+        "icao24": "801638",
+        "callsign": "AXB1069 ",
+        "country": "India",
+        "longitude": 84.9856,
+        "latitude": 26.4166,
+        "altitude": 10675.62,
+        "velocity": 242.13,
+        "timestamp": "2026-06-19T12:24:00.059417"
+    },
+    {
+        "icao24": "39de4a",
+        "callsign": "TVF59WT ",
+        "country": "France",
+        "longitude": 2.3695,
+        "latitude": 48.7217,
+        "altitude": null,
+        "velocity": 13.38,
+        "timestamp": "2026-06-19T12:24:00.059418"
+    },
+    {
+        "icao24": "39de4d",
+        "callsign": "TVF8336 ",
+        "country": "France",
+        "longitude": 7.9536,
+        "latitude": 41.5467,
+        "altitude": 11277.6,
+        "velocity": 227.75,
+        "timestamp": "2026-06-19T12:24:00.059420"
+    },
+    {
+        "icao24": "aa9321",
+        "callsign": "UAL44   ",
+        "country": "United States",
+        "longitude": -7.7365,
+        "latitude": 53.8629,
+        "altitude": 11277.6,
+        "velocity": 248.22,
+        "timestamp": "2026-06-19T12:24:00.059421"
+    },
+    {
+        "icao24": "39de57",
+        "callsign": "TVF37DE ",
+        "country": "France",
+        "longitude": 1.4231,
+        "latitude": 45.2814,
+        "altitude": 11887.2,
+        "velocity": 224.71,
+        "timestamp": "2026-06-19T12:24:00.059422"
+    },
+    {
+        "icao24": "488284",
+        "callsign": "SPAWE   ",
+        "country": "Poland",
+        "longitude": 20.9409,
+        "latitude": 52.4398,
+        "altitude": 472.44,
+        "velocity": 42.92,
+        "timestamp": "2026-06-19T12:24:00.059423"
+    },
+    {
+        "icao24": "39de58",
+        "callsign": "TVF99PC ",
+        "country": "France",
+        "longitude": 11.6531,
+        "latitude": 44.75,
+        "altitude": 11277.6,
+        "velocity": 232.24,
+        "timestamp": "2026-06-19T12:24:00.059426"
+    },
+    {
+        "icao24": "80162e",
+        "callsign": "AIC3ZS  ",
+        "country": "India",
+        "longitude": 85.0797,
+        "latitude": 25.7377,
+        "altitude": 1501.14,
+        "velocity": 114.73,
+        "timestamp": "2026-06-19T12:24:00.059427"
+    },
+    {
+        "icao24": "39de53",
+        "callsign": "TVF43WX ",
+        "country": "France",
+        "longitude": 14.6021,
+        "latitude": 37.5487,
+        "altitude": 2506.98,
+        "velocity": 134.08,
+        "timestamp": "2026-06-19T12:24:00.059428"
+    },
+    {
+        "icao24": "39de55",
+        "callsign": "TVF418N ",
+        "country": "France",
+        "longitude": -3.2634,
+        "latitude": 41.8118,
+        "altitude": 11582.4,
+        "velocity": 234.48,
+        "timestamp": "2026-06-19T12:24:00.059429"
+    },
+    {
+        "icao24": "39de54",
+        "callsign": "TVF41JM ",
+        "country": "France",
+        "longitude": 3.6266,
+        "latitude": 49.1879,
+        "altitude": 2750.82,
+        "velocity": 146.15,
+        "timestamp": "2026-06-19T12:24:00.059431"
+    },
+    {
+        "icao24": "8744f6",
+        "callsign": "",
+        "country": "Japan",
+        "longitude": 135.4397,
+        "latitude": 34.7893,
+        "altitude": null,
+        "velocity": 1.29,
+        "timestamp": "2026-06-19T12:24:00.059432"
+    },
+    {
+        "icao24": "801650",
+        "callsign": "AXB1514 ",
+        "country": "India",
+        "longitude": 88.4407,
+        "latitude": 22.6427,
+        "altitude": null,
+        "velocity": 0.9,
+        "timestamp": "2026-06-19T12:24:00.059433"
+    },
+    {
+        "icao24": "500486",
+        "callsign": "T7RSA   ",
+        "country": "",
+        "longitude": 9.1104,
+        "latitude": 43.7434,
+        "altitude": 10668,
+        "velocity": 230.37,
+        "timestamp": "2026-06-19T12:24:00.059434"
+    },
+    {
+        "icao24": "00b22c",
+        "callsign": "SAA306  ",
+        "country": "South Africa",
+        "longitude": 28.231,
+        "latitude": -26.2199,
+        "altitude": 1882.14,
+        "velocity": 72.64,
+        "timestamp": "2026-06-19T12:24:00.059435"
+    },
+    {
+        "icao24": "50049b",
+        "callsign": "T7BLV   ",
+        "country": "",
+        "longitude": 106.8307,
+        "latitude": -6.2939,
+        "altitude": 388.62,
+        "velocity": 69.27,
+        "timestamp": "2026-06-19T12:24:00.059436"
+    },
+    {
+        "icao24": "80160b",
+        "callsign": "IGO403K ",
+        "country": "India",
+        "longitude": 82.243,
+        "latitude": 20.2489,
+        "altitude": 11574.78,
+        "velocity": 246.84,
+        "timestamp": "2026-06-19T12:24:00.059437"
+    },
+    {
+        "icao24": "7c2ee4",
+        "callsign": "JJQ     ",
+        "country": "Australia",
+        "longitude": 151.8615,
+        "latitude": -27.867,
+        "altitude": 1325.88,
+        "velocity": 95.59,
+        "timestamp": "2026-06-19T12:24:00.059438"
+    },
+    {
+        "icao24": "8a02db",
+        "callsign": "J041KT  ",
+        "country": "Indonesia",
+        "longitude": 110.3983,
+        "latitude": -7.7883,
+        "altitude": 350.52,
+        "velocity": 51.49,
+        "timestamp": "2026-06-19T12:24:00.059439"
+    },
+    {
+        "icao24": "801621",
+        "callsign": "IGO71AT ",
+        "country": "India",
+        "longitude": 92.6507,
+        "latitude": 24.3653,
+        "altitude": 10591.8,
+        "velocity": 237.03,
+        "timestamp": "2026-06-19T12:24:00.059440"
+    },
+    {
+        "icao24": "a15bf8",
+        "callsign": "N187PF  ",
+        "country": "United States",
+        "longitude": -157.3897,
+        "latitude": 20.9641,
+        "altitude": 1950.72,
+        "velocity": 50.43,
+        "timestamp": "2026-06-19T12:24:00.059441"
+    },
+    {
+        "icao24": "a5e550",
+        "callsign": "N4793F  ",
+        "country": "United States",
+        "longitude": -122.3673,
+        "latitude": 47.5879,
+        "altitude": 548.64,
+        "velocity": 46.25,
+        "timestamp": "2026-06-19T12:24:00.059442"
+    },
+    {
+        "icao24": "801627",
+        "callsign": "AXB2385 ",
+        "country": "India",
+        "longitude": 77.1954,
+        "latitude": 30.3976,
+        "altitude": 2514.6,
+        "velocity": 150.43,
+        "timestamp": "2026-06-19T12:24:00.059443"
+    },
+    {
+        "icao24": "a0e250",
+        "callsign": "AAL1426 ",
+        "country": "United States",
+        "longitude": -88.5736,
+        "latitude": 42.3791,
+        "altitude": 4792.98,
+        "velocity": 200.95,
+        "timestamp": "2026-06-19T12:24:00.059445"
+    },
+    {
+        "icao24": "801631",
+        "callsign": "IGO7304 ",
+        "country": "India",
+        "longitude": 90.3685,
+        "latitude": 24.1436,
+        "altitude": 3962.4,
+        "velocity": 132.13,
+        "timestamp": "2026-06-19T12:24:00.059446"
+    },
+    {
+        "icao24": "a1025a",
+        "callsign": "UPS750  ",
+        "country": "United States",
+        "longitude": -90.7238,
+        "latitude": 35.4249,
+        "altitude": 9753.6,
+        "velocity": 228.79,
+        "timestamp": "2026-06-19T12:24:00.059448"
+    },
+    {
+        "icao24": "39de48",
+        "callsign": "TVF15XC ",
+        "country": "France",
+        "longitude": 4.3949,
+        "latitude": 47.5086,
+        "altitude": 8305.8,
+        "velocity": 218.7,
+        "timestamp": "2026-06-19T12:24:00.059449"
+    },
+    {
+        "icao24": "39de47",
+        "callsign": "TVF8153 ",
+        "country": "France",
+        "longitude": 3.5502,
+        "latitude": 47.847,
+        "altitude": 8145.78,
+        "velocity": 230.03,
+        "timestamp": "2026-06-19T12:24:00.059450"
+    },
+    {
+        "icao24": "a2ded8",
+        "callsign": "SWA3443 ",
+        "country": "United States",
+        "longitude": -119.258,
+        "latitude": 34.8333,
+        "altitude": 5570.22,
+        "velocity": 183.94,
+        "timestamp": "2026-06-19T12:24:00.059451"
+    },
+    {
+        "icao24": "39de49",
+        "callsign": "TVF55WH ",
+        "country": "France",
+        "longitude": -6.3953,
+        "latitude": 41.9946,
+        "altitude": 11887.2,
+        "velocity": 223.59,
+        "timestamp": "2026-06-19T12:24:00.059452"
+    },
+    {
+        "icao24": "8a02ca",
+        "callsign": "AWQ254  ",
+        "country": "Indonesia",
+        "longitude": 103.4575,
+        "latitude": 4.4944,
+        "altitude": 10980.42,
+        "velocity": 234.76,
+        "timestamp": "2026-06-19T12:24:00.059454"
+    },
+    {
+        "icao24": "407a06",
+        "callsign": "EZY15NF ",
+        "country": "United Kingdom",
+        "longitude": -8.3708,
+        "latitude": 50.6285,
+        "altitude": 10972.8,
+        "velocity": 199.56,
+        "timestamp": "2026-06-19T12:24:00.059455"
+    },
+    {
+        "icao24": "8a02cb",
+        "callsign": "AWQ725  ",
+        "country": "Indonesia",
+        "longitude": 103.2422,
+        "latitude": -1.5077,
+        "altitude": 11262.36,
+        "velocity": 222.58,
+        "timestamp": "2026-06-19T12:24:00.059456"
+    },
+    {
+        "icao24": "80161d",
+        "callsign": "AKJ1406 ",
+        "country": "India",
+        "longitude": 82.4615,
+        "latitude": 26.6335,
+        "altitude": 11574.78,
+        "velocity": 234.07,
+        "timestamp": "2026-06-19T12:24:00.059457"
+    },
+    {
+        "icao24": "39de40",
+        "callsign": "TVF99QP ",
+        "country": "France",
+        "longitude": 1.9852,
+        "latitude": 41.4994,
+        "altitude": 7185.66,
+        "velocity": 202.67,
+        "timestamp": "2026-06-19T12:24:00.059458"
+    },
+    {
+        "icao24": "80161e",
+        "callsign": "AKJ1817 ",
+        "country": "India",
+        "longitude": 73.3614,
+        "latitude": 18.2789,
+        "altitude": 10972.8,
+        "velocity": 232.14,
+        "timestamp": "2026-06-19T12:24:00.059459"
+    },
+    {
+        "icao24": "39de42",
+        "callsign": "TVF37NP ",
+        "country": "France",
+        "longitude": 9.5826,
+        "latitude": 47.9096,
+        "altitude": 11277.6,
+        "velocity": 237.45,
+        "timestamp": "2026-06-19T12:24:00.059460"
+    },
+    {
+        "icao24": "8a02d9",
+        "callsign": "J010KT  ",
+        "country": "Indonesia",
+        "longitude": 110.4152,
+        "latitude": -7.7957,
+        "altitude": 441.96,
+        "velocity": 63.78,
+        "timestamp": "2026-06-19T12:24:00.059461"
+    },
+    {
+        "icao24": "39de43",
+        "callsign": "TVF40DK ",
+        "country": "France",
+        "longitude": -2.4417,
+        "latitude": 41.8274,
+        "altitude": 11887.2,
+        "velocity": 227.93,
+        "timestamp": "2026-06-19T12:24:00.059462"
+    },
+    {
+        "icao24": "aad012",
+        "callsign": "UAL58   ",
+        "country": "United States",
+        "longitude": 5.1105,
+        "latitude": 52.3232,
+        "altitude": 10058.4,
+        "velocity": 263.39,
+        "timestamp": "2026-06-19T12:24:00.059464"
+    },
+    {
+        "icao24": "511188",
+        "callsign": "MBU3ZE  ",
+        "country": "Estonia",
+        "longitude": 16.0848,
+        "latitude": 44.5698,
+        "altitude": 11590.02,
+        "velocity": 212.37,
+        "timestamp": "2026-06-19T12:24:00.059465"
+    },
+    {
+        "icao24": "511189",
+        "callsign": "CFG1DV  ",
+        "country": "Estonia",
+        "longitude": 24.1609,
+        "latitude": 35.8451,
+        "altitude": 2644.14,
+        "velocity": 150.16,
+        "timestamp": "2026-06-19T12:24:00.059466"
+    },
+    {
+        "icao24": "8a02d4",
+        "callsign": "GIA149  ",
+        "country": "Indonesia",
+        "longitude": 106.3277,
+        "latitude": -6.1244,
+        "altitude": 1844.04,
+        "velocity": 111.13,
+        "timestamp": "2026-06-19T12:24:00.059467"
+    },
+    {
+        "icao24": "470beb",
+        "callsign": "HAENJ   ",
+        "country": "Hungary",
+        "longitude": 21.6174,
+        "latitude": 47.4635,
+        "altitude": 335.28,
+        "velocity": 37.61,
+        "timestamp": "2026-06-19T12:24:00.059468"
+    },
+    {
+        "icao24": "470bec",
+        "callsign": "HAENK   ",
+        "country": "Hungary",
+        "longitude": 21.4965,
+        "latitude": 47.7164,
+        "altitude": 1920.24,
+        "velocity": 41.83,
+        "timestamp": "2026-06-19T12:24:00.059469"
+    },
+    {
+        "icao24": "7c7268",
+        "callsign": "WVU     ",
+        "country": "Australia",
+        "longitude": 144.7738,
+        "latitude": -37.9233,
+        "altitude": 365.76,
+        "velocity": 67.1,
+        "timestamp": "2026-06-19T12:24:00.059472"
+    },
+    {
+        "icao24": "440298",
+        "callsign": "OECCL   ",
+        "country": "Austria",
+        "longitude": 12.4861,
+        "latitude": 41.9703,
+        "altitude": 228.6,
+        "velocity": 42.69,
+        "timestamp": "2026-06-19T12:24:00.059473"
+    }
+]
