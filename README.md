@@ -60,4 +60,4 @@ Python, OpenSky Network API, Folium (mapping), Pandas
 
 ## Author
 
-Bineesh Baburaj — ECE (Avionics), Central University of Jammu
+Bineesh Baburajan — ECE (Avionics), Central University of Jammu
